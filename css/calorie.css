@@ -1,0 +1,82 @@
+
+.navtext{
+    color: white;
+    width: 50%;
+    margin-left: 45%;
+}
+
+.navtext .nvt {
+    float: left;
+
+}
+
+.tractext{
+    margin-right: 40%;
+}
+.nvtbutton{
+    background-color: #90CAF9 !important;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+
+
+
+.mealpart{
+
+ background-color: white;
+ box-shadow:3px 5px 3px 3px #cccc;
+ width: 70%;
+ margin: 0px auto;
+ margin-top: 20px;
+}
+
+.textpart{
+ padding-top : 25px;
+ color: black;
+ padding-left: 50px;
+ padding-right: 50px;
+ font-size: 25px;
+ font-weight: lighter;
+}
+
+.meal{
+    padding-left: 50px;
+ padding-right: 50px;
+}
+form .mealtext{
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    border-color: #d7d7d7;
+    border-radius: 0px;
+    
+}
+
+.addbutton{
+    margin-top: 10px;
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    border-radius: 3px;
+}
+.backbutton{
+    float: right;
+    margin-right: 20px;
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    border-radius: 3px;
+}
+.total{
+    text-align: center;
+    margin-top: 20px;
+}
